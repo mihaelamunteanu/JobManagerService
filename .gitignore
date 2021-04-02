@@ -1,0 +1,7 @@
+/bin/
+/lib/
+/backup/
+/target/
+/.settings/
+.project
+.classpath
