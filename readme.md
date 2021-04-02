@@ -30,5 +30,6 @@ The same JOB can be run multiple times with different schedule params.
 
 As an improvement putting the elements in the PriorityQueue from another thread, other than Main. Proposed with ExecutorService Single Thread to be Able to keep the priority in the Queue and not get random results. 
 
-See the diagram below: 
+# See the diagram below for an overview of the system: 
+
 ![JobManagerSystemDiagram](/diagram.png)
