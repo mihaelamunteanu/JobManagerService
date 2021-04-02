@@ -1,4 +1,4 @@
-# Job Manager 
+# Job Manager System
 
 A Job Management System is developed.  Assumption was made that Scheduling and Immediate tasks have to be handled by the same JobManager and Jobs can come in all kinds of flavor. 
 
