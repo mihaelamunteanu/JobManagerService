@@ -12,7 +12,7 @@ import com.interview.jobsmanager.jobs.JobPriority;
 import com.interview.jobsmanager.jobs.SendMailJob;
 
 /**
- * Entry point to call entryJobs.jobManagementService.
+ * Entry point to call JobManagementService.
  * 
  * @author Mihaela Munteanu
  * @since 02.04.2021
