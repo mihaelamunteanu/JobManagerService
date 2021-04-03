@@ -1,6 +1,7 @@
 # Job Manager System
 
-A Job Management System is developed.  Assumption was made that Scheduling and Immediate tasks have to be handled by the same JobManager and Jobs can come in all kinds of flavor. 
+A Job Management System that accepts jobs with a given schedule or immediate. The jobs have to extend the _Job_ abstract class. 
+Assumption was made that Scheduling and Immediate tasks have to be handled by the same JobManager and Jobs can come in all kinds of flavor. 
 
 ## Flexibility
 The new types of Jobs are unknown to the Manager System. 
