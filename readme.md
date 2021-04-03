@@ -33,4 +33,4 @@ As an improvement putting the elements in the PriorityQueue from another thread,
 
 # See the diagram below for an overview of the system: 
 
-![JobManagerSystemDiagram](/diagram.png)
+![JobManagerSystemDiagram](/resources/diagram.png)
